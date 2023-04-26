@@ -11,8 +11,6 @@
             "email": "stof@notk.org"
         }
     ],
-    "minimum-stability": "stable",
-    "prefer-stable": true,
     "require": {
         "php": "^7.3 || ^8",
         "phpspec/prophecy": "^1.18",
@@ -27,11 +25,6 @@
         "psr-4": {
             "Prophecy\\PhpUnit\\Tests\\Fixtures\\": "fixtures",
             "Prophecy\\PhpUnit\\Tests\\": "tests"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.x-dev"
         }
     }
 }
