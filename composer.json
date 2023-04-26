@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": "^7.3 || ^8",
-        "phpspec/prophecy": "^1.17",
-        "phpunit/phpunit":"^9.0 || ^10.0"
+        "phpspec/prophecy": "dev-master",
+        "phpunit/phpunit":"^9.1 || ^10.1"
     },
     "autoload": {
         "psr-4": {
