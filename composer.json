@@ -13,9 +13,7 @@
     ],
     "require": {
         "php": "^7.3 || ^8",
-        "phpspec/prophecy": "^1.17"
-    },
-    "require-dev": {
+        "phpspec/prophecy": "^1.17",
         "phpunit/phpunit":"^9.0 || ^10.0"
     },
     "autoload": {
